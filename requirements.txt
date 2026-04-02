@@ -1,0 +1,8 @@
+django>=4.2
+djangorestframework>=3.14
+django-cors-headers>=4.3
+Pillow
+opencv-python
+numpy
+face_recognition
+deepface
